@@ -1,4 +1,4 @@
-module github.com/jefeferreira/gin-basics
+module github.com/jefeferreira/gin-simple-api
 
 go 1.23.0
 
