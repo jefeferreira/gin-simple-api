@@ -14,19 +14,20 @@ The API allows you to create, list, search, update, and delete products. This is
 
 ### 🔧 How to Build and Run the Project
 
-**build**
-To build the project, use the command:
+**To build the project**, use the command:
 
 ```go
 go build server.go
 ```
 
 **run the project**
-To build the project, use the command:
+**To run the server**, execute the generated file:
 
 ```go
 ./server
 ```
+
+By default, the server will start on port 8000.
 
 # 📪 Endpoints
 
